@@ -11,6 +11,12 @@
 
 The `expo-material-tabs` library is a comprehensive foundation for developing cross-platform mobile applications that integrate seamlessly with the Expo ecosystem while adhering to Material Design V3 guidelines. It provides native support for both light and dark themes, ensuring a consistent and visually appealing user experience across all supported platforms.
 
+## Screenshots
+
+![Home screen](assets/screenshots/home.png)
+![Explore screen](assets/screenshots/explore.png)
+![Modal screen](assets/screenshots/modal.png)
+
 ## Key Features
 
 - **Expo Framework**: Leverage the extensive capabilities offered by the Expo platform to streamline development processes.
