@@ -13,7 +13,7 @@ import { useColorScheme } from 'react-native'
 import { adaptNavigationTheme, PaperProvider } from 'react-native-paper'
 import 'react-native-reanimated'
 
-import { StackHeader } from '@/ui'
+import { StackHeader } from '@/lib'
 
 // Catch any errors thrown by the Layout component.
 export { ErrorBoundary } from 'expo-router'

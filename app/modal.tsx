@@ -2,7 +2,7 @@ import { StatusBar } from 'expo-status-bar'
 import { Platform, View } from 'react-native'
 import { Chip, Text } from 'react-native-paper'
 
-import { ScreenStyles } from '@/ui/'
+import { ScreenStyles } from '@/lib'
 
 const Modal = () => (
   <View style={ScreenStyles.centeredScreen}>

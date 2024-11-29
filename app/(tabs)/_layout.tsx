@@ -3,7 +3,7 @@ import { MaterialIcons } from '@expo/vector-icons'
 import { router, Tabs } from 'expo-router'
 import { Appbar } from 'react-native-paper'
 
-import { TabBar, TabsHeader, useClientOnlyValue } from '@/ui'
+import { TabBar, TabsHeader, useClientOnlyValue } from '@/lib'
 
 // You can explore the built-in icon families and icons on the web at https://icons.expo.fyi/
 function TabBarIcon(props: {

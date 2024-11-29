@@ -1,7 +1,7 @@
 import { View } from 'react-native'
 import { Chip, Text } from 'react-native-paper'
 
-import { ScreenStyles } from '@/ui'
+import { ScreenStyles } from '@/lib'
 
 const Home = () => (
   <View style={ScreenStyles.centeredScreen}>
