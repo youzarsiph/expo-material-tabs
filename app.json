@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "expo-tabs",
-    "slug": "expo-tabs",
+    "name": "expo-material-tabs",
+    "slug": "expo-material-tabs",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
